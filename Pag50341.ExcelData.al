@@ -1,4 +1,4 @@
-page 50341 "Excel Data" pranav pancholi
+page 50341 "Excel Data"
 {
     ApplicationArea = All;
     Caption = 'Excel Data';
