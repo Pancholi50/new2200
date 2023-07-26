@@ -1,10 +1,9 @@
-page 50341 "Excel Data"
+page 50341 "Excel Data" pranav pancholi
 {
     ApplicationArea = All;
     Caption = 'Excel Data';
     PageType = CardPart;
     SourceTable = Item;
-
     layout
     {
         area(content)
